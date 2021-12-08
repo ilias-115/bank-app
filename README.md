@@ -10,6 +10,11 @@
 ## Base de Données :
 
 - MySQL avec un compte username : root, password : root
+- Créer la database 'bd_bank'
+
+`mysql -u root -p`
+`CREATE DATABASE bd_bank;`
+
 
 ## Front-end :
 
@@ -40,3 +45,5 @@
 - Importer le fichier 'bank_backend'.
 - Clic droit sur 'fr.su.BankBackendApplication.java' -> Run as -> Spring boot app
 - Le serveur devrait se lancer.
+
+
