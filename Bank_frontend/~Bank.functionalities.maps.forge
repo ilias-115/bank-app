@@ -1,0 +1,284 @@
+{
+    "rangeSeeds": [
+        {
+            "file": "Application/Compte.js",
+            "seeds": [
+                {
+                    "id": "2a44b063-993d-4f90-a298-0db90b635e71",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "81e94d6f-c491-4779-9f1f-2905d56594d2",
+                    "startLine": 12,
+                    "startColumn": 0,
+                    "endLine": 12,
+                    "endColumn": 38,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "5bf52b2c-ca4e-43f4-bad0-06fbcb8560c8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "fa876cf4-02f2-43e3-b003-423db6b85805",
+                    "startLine": 16,
+                    "startColumn": 0,
+                    "endLine": 16,
+                    "endColumn": 49,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "ed24a458-797a-4052-91ee-594c975b4de2",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "65818f8a-0a07-479e-baaa-a415ca1a74b5",
+                    "startLine": 99,
+                    "startColumn": 7,
+                    "endLine": 100,
+                    "endColumn": 9,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "58e27374-90da-40c8-85d6-c911440727c1",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "205537a9-f2f0-48f3-b6b5-ce43147953b9",
+                    "startLine": 270,
+                    "startColumn": 0,
+                    "endLine": 273,
+                    "endColumn": 16,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "dcd5f36b-8c06-4736-8878-b8fb51b9b781",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "fa876cf4-02f2-43e3-b003-423db6b85805",
+                    "startLine": 331,
+                    "startColumn": 14,
+                    "endLine": 335,
+                    "endColumn": 20,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "b4119c63-7225-493f-b6bf-bf4ac211c26c",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "81e94d6f-c491-4779-9f1f-2905d56594d2",
+                    "startLine": 338,
+                    "startColumn": 9,
+                    "endLine": 343,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "Application/Admin.js",
+            "seeds": [
+                {
+                    "id": "39f7a3d4-4365-4445-bace-75ab47f875d6",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "81e94d6f-c491-4779-9f1f-2905d56594d2",
+                    "startLine": 6,
+                    "startColumn": 0,
+                    "endLine": 6,
+                    "endColumn": 38,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "749d57b6-55a6-4142-8a5c-17f185808271",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "fa876cf4-02f2-43e3-b003-423db6b85805",
+                    "startLine": 9,
+                    "startColumn": 0,
+                    "endLine": 9,
+                    "endColumn": 49,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "558bbb97-a39c-4b75-a32f-7180219115fc",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "65818f8a-0a07-479e-baaa-a415ca1a74b5",
+                    "startLine": 224,
+                    "startColumn": 9,
+                    "endLine": 236,
+                    "endColumn": 16,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "67d6b6ce-08b2-463d-8597-c7a466526637",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "2349b2a7-62bf-4186-a1c4-f072932581e8",
+                    "startLine": 272,
+                    "startColumn": 11,
+                    "endLine": 302,
+                    "endColumn": 19,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "105974e5-e2be-4826-bad9-8a277ba8cd9f",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "fa876cf4-02f2-43e3-b003-423db6b85805",
+                    "startLine": 329,
+                    "startColumn": 13,
+                    "endLine": 333,
+                    "endColumn": 20,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "368bba13-2e82-42b6-983c-02c7fb019a4b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "81e94d6f-c491-4779-9f1f-2905d56594d2",
+                    "startLine": 335,
+                    "startColumn": 12,
+                    "endLine": 339,
+                    "endColumn": 18,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "Application/Connexion.js",
+            "seeds": [
+                {
+                    "id": "3587f988-93d7-4803-9572-c17347c500e5",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "5c1ec5c8-9579-4e67-938a-7ac558a575e3",
+                    "startLine": 8,
+                    "startColumn": 0,
+                    "endLine": 8,
+                    "endColumn": 62,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "769b6dc4-d721-4321-b2c7-f15ea18ea6ce",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "932ce9fe-4ca4-4deb-b9f5-5a6e9a9ba676",
+                    "startLine": 10,
+                    "startColumn": 0,
+                    "endLine": 10,
+                    "endColumn": 65,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "2b66643f-d4fc-4e1a-a795-c04c325079e8",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "4ecec9a3-660f-4a2e-a294-c0310695abec",
+                    "startLine": 12,
+                    "startColumn": 0,
+                    "endLine": 12,
+                    "endColumn": 62,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "2e668cfb-8300-41fb-92e0-8d50df1dedc3",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "81e94d6f-c491-4779-9f1f-2905d56594d2",
+                    "startLine": 15,
+                    "startColumn": 0,
+                    "endLine": 15,
+                    "endColumn": 38,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "bbc57c9a-229d-469a-bd9d-33ebc6f914ec",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "fa876cf4-02f2-43e3-b003-423db6b85805",
+                    "startLine": 16,
+                    "startColumn": 0,
+                    "endLine": 16,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "443abd20-ddca-452f-a31c-3f70992b8768",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "5c1ec5c8-9579-4e67-938a-7ac558a575e3",
+                    "startLine": 19,
+                    "startColumn": 0,
+                    "endLine": 19,
+                    "endColumn": 55,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "cb1b1cc6-6433-4f60-aaaa-d51250d7ccce",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "4ecec9a3-660f-4a2e-a294-c0310695abec",
+                    "startLine": 21,
+                    "startColumn": 0,
+                    "endLine": 21,
+                    "endColumn": 55,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "a39f04b3-fa0b-4fad-b8af-400d56cff800",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "5c1ec5c8-9579-4e67-938a-7ac558a575e3",
+                    "startLine": 75,
+                    "startColumn": 14,
+                    "endLine": 81,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "466bb805-f34c-4429-b2d3-88cb1be28892",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "932ce9fe-4ca4-4deb-b9f5-5a6e9a9ba676",
+                    "startLine": 83,
+                    "startColumn": 0,
+                    "endLine": 88,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "7384ca98-144c-48c5-ba9b-b7ed7cf72b9b",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "4ecec9a3-660f-4a2e-a294-c0310695abec",
+                    "startLine": 92,
+                    "startColumn": 0,
+                    "endLine": 97,
+                    "endColumn": 0,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "15473c02-828e-4fe2-9bd4-1bdbd55f96d7",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "fa876cf4-02f2-43e3-b003-423db6b85805",
+                    "startLine": 138,
+                    "startColumn": 14,
+                    "endLine": 142,
+                    "endColumn": 20,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "6afcd7a7-3073-43ef-8971-d2f3beebf96a",
+                    "analyzer": "Interoperable analyzer",
+                    "featureKey": "81e94d6f-c491-4779-9f1f-2905d56594d2",
+                    "startLine": 144,
+                    "startColumn": 11,
+                    "endLine": 148,
+                    "endColumn": 18,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        }
+    ],
+    "fileSeeds": []
+}

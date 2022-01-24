@@ -1,20 +1,27 @@
 import React, { Component } from 'react';
 import '../styles/main.css';
-import '../styles/banks/societe_generale.css';
+
 import '../bulma.min.css';
 
 import socgen from '../images/bank_icons/societe_generale.png';
-import socgen from '../images/bank_icons/cic.png';
-import socgen from '../images/bank_icons/banque_postale.png';
+
 
 import { faGoogle } from '@fortawesome/free-brands-svg-icons';
+
+import { faMicrosoft } from '@fortawesome/free-brands-svg-icons';
+
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
+
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 import socialMediaAuth from '../service/auth';
+
 import { googleProvider } from '../Config/authMethods';
-import '../styles/main.css';
-import '../styles/banks/societe_generale.css';
-import '../bulma.min.css';
+
+import { githubProvider } from '../Config/authMethods';
+
+
 import visa from '../images/visa.png';
 import mastercard from '../images/masterard.png';
 
@@ -61,12 +68,35 @@ class Connexion extends Component {
         <div className="columns">
           <div className="column">
             <span id="login-buttons-container">
+
+
+
               <button className="button is-info is-outlined" id="google-login-button" style={{display: 'default'}} onClick={() => this.handleOnClick(googleProvider)}>
                 <span className="icon">
                   <FontAwesomeIcon icon={faGoogle}/>
                 </span>
                 <span>Google login</span>
               </button>
+
+
+              <button className="button is-link is-outlined" id="microsoft-login-button">
+                <span className="icon">
+                <FontAwesomeIcon icon={faMicrosoft}/>
+                </span>
+                <span>Microsoft login</span>
+              </button>
+
+
+
+              <button className="button is-dark is-outlined" id="github-login-button" onClick={() => this.handleOnClick(githubProvider)}>
+                <span className="icon">
+                <FontAwesomeIcon icon={faGithub}/>
+                </span>
+                <span>Github login</span>
+              </button>
+
+
+
             </span>
           </div>
           <div className="column" style={{textAlign: 'right'}}>
@@ -104,20 +134,29 @@ class Connexion extends Component {
             </div>
           </div>
       
-          <div className="column is-offset-9 is-2" style={{bottom:0, position:'fixed'}} >
+          <div className="column is-offset-8 is-2" style={{bottom:0, position:'fixed'}} >
             <div className="columns is-mobile"  >
               <div className="column is-half" >
                 <figure className="image is-64x64">
-                  <img src={mastercard} alt="neMarchePas" />
+                  <img style={{marginLeft: '150px'}} src={mastercard} alt="neMarchePas" />
                 </figure>
               </div>
-              <div className="column is-half">
-                <figure className="image is-64x64">
-                  <img style={{marginTop: '13px'}} src={visa} alt="neMarchePas" />
-                </figure>
-              </div>
+            
+            <div className="column is-mobile">
+              <figure className="image is-64x64">
+                <img style={{marginTop: '13px', marginLeft: '100px'}} src={visa} alt="neMarchePas" />
+              </figure>
             </div>
-          </div>
+
+            </div>
+      </div>
+      
+
+
+        
+
+
+
         </div>
       </div>
 

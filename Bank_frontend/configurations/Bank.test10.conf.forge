@@ -1,0 +1,29 @@
+{
+    "isAbsolutePath": false,
+    "resourcesPath": "resources/files",
+    "functionalityConfiguration": [
+        "b9d98bee-8da9-4ba1-b6b9-e7cf33be8ac4",
+        "bc126f91-01bc-4fd5-8861-99706ba2aa47",
+        "81e94d6f-c491-4779-9f1f-2905d56594d2"
+    ],
+    "fileResourceConfiguration": [
+        {
+            "key": "4ed8e1d3-ddea-4da6-935d-3f269c33c8fc",
+            "value": "images/bank_icons",
+            "fileName": "cic.png"
+        },
+        {
+            "key": "fd520afc-92d2-420e-97d3-2f140e6644f1",
+            "value": "data",
+            "fileName": "banque_postale.json"
+        },
+        {
+            "key": "e76dbe23-3970-4a2d-825b-5ac2d26dcf99",
+            "value": "styles/banks",
+            "fileName": "societe_generale.css"
+        }
+    ],
+    "textResourceConfiguration": [],
+    "assetResourceConfiguration": [],
+    "colorResourceConfiguration": []
+}

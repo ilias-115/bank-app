@@ -1,0 +1,102 @@
+{
+    "rangeSeeds": [
+        {
+            "file": "Application/Compte.js",
+            "seeds": [
+                {
+                    "id": "6ac9fe67-a0f6-4cc1-a333-ec9054e21b36",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "4ed8e1d3-ddea-4da6-935d-3f269c33c8fc",
+                    "startLine": 9,
+                    "startColumn": 41,
+                    "endLine": 9,
+                    "endColumn": 61,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "3b7648ca-aaec-4d86-8e3b-3aa74e95c6be",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fd520afc-92d2-420e-97d3-2f140e6644f1",
+                    "startLine": 50,
+                    "startColumn": 32,
+                    "endLine": 50,
+                    "endColumn": 53,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "Application/Connexion.js",
+            "seeds": [
+                {
+                    "id": "b95517f9-a8f9-4446-ad30-1e0028898f10",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "4ed8e1d3-ddea-4da6-935d-3f269c33c8fc",
+                    "startLine": 5,
+                    "startColumn": 41,
+                    "endLine": 5,
+                    "endColumn": 61,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "cb2cbbba-5c2b-400b-8b10-2a8ca0061d45",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fd520afc-92d2-420e-97d3-2f140e6644f1",
+                    "startLine": 36,
+                    "startColumn": 18,
+                    "endLine": 36,
+                    "endColumn": 18,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "Application/Admin.js",
+            "seeds": [
+                {
+                    "id": "bb2c9660-d35f-43bf-ac0e-9f8a3a8a0a28",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "e76dbe23-3970-4a2d-825b-5ac2d26dcf99",
+                    "startLine": 3,
+                    "startColumn": 24,
+                    "endLine": 3,
+                    "endColumn": 44,
+                    "type": "Deletion",
+                    "isValidated": true
+                },
+                {
+                    "id": "ebe1e0e1-6836-4374-9b3a-03afc824a4a7",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "fd520afc-92d2-420e-97d3-2f140e6644f1",
+                    "startLine": 47,
+                    "startColumn": 36,
+                    "endLine": 47,
+                    "endColumn": 57,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        },
+        {
+            "file": "Application/App.js",
+            "seeds": [
+                {
+                    "id": "79082cdd-0d9b-4c9e-8ce4-bafbc77dd094",
+                    "analyzer": "Resource Analyzer",
+                    "featureKey": "e76dbe23-3970-4a2d-825b-5ac2d26dcf99",
+                    "startLine": 7,
+                    "startColumn": 24,
+                    "endLine": 7,
+                    "endColumn": 44,
+                    "type": "Deletion",
+                    "isValidated": true
+                }
+            ]
+        }
+    ],
+    "fileSeeds": []
+}

@@ -1,10 +1,22 @@
 import React, { Component } from 'react';
 import '../styles/main.css';
-import '../styles/banks/societe_generale.css';
+
+
 import '../bulma.min.css';
+
+
+
 import socgen from '../images/bank_icons/societe_generale.png';
+
+
+
 import visa from '../images/visa.png';
+
+
+
 import mastercard from '../images/masterard.png';
+
+
 import axios from 'axios';
 
 import { faSignOutAlt, faArrowDown, faArrowUp, faPhone, faEnvelope, faInfoCircle } from '@fortawesome/free-solid-svg-icons';
@@ -312,20 +324,30 @@ class Compte extends Component {
             </div>
           </div>
       
-          <div className="column is-offset-4 is-2">
-            <div className="columns is-mobile">
-              <div className="column is-half">
+          
+
+
+          <div className="column is-offset-8 is-2" style={{bottom:0, position:'fixed'}} >
+            <div className="columns is-mobile"  >
+              <div className="column is-half" >
                 <figure className="image is-64x64">
-                  <img src={mastercard} alt="neMarchePas" />
+                  <img style={{marginLeft: '150px'}} src={mastercard} alt="neMarchePas" />
                 </figure>
               </div>
-              <div className="column is-half">
-                <figure className="image is-64x64">
-                  <img style={{marginTop: '13px'}} src={visa} alt="neMarchePas" />
-                </figure>
-              </div>
-            </div>
-          </div>
+
+
+         <div className="column is-mobile">
+              <figure className="image is-64x64">
+                <img style={{marginTop: '13px', marginLeft: '100px'}} src={visa} alt="neMarchePas" />
+              </figure>
+         </div>
+
+         </div>
+        </div>
+         
+
+
+
         </div>
       </div>
     );

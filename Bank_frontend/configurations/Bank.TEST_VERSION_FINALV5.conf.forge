@@ -1,0 +1,33 @@
+{
+    "isAbsolutePath": false,
+    "resourcesPath": "resources/files",
+    "functionalityConfiguration": [
+        "b9d98bee-8da9-4ba1-b6b9-e7cf33be8ac4",
+        "205537a9-f2f0-48f3-b6b5-ce43147953b9",
+        "bc126f91-01bc-4fd5-8861-99706ba2aa47",
+        "fa876cf4-02f2-43e3-b003-423db6b85805",
+        "6b6bd095-1186-43e6-94dc-af259e70f103",
+        "4ecec9a3-660f-4a2e-a294-c0310695abec",
+        "5c1ec5c8-9579-4e67-938a-7ac558a575e3"
+    ],
+    "fileResourceConfiguration": [
+        {
+            "key": "4ed8e1d3-ddea-4da6-935d-3f269c33c8fc",
+            "value": "images/bank_icons",
+            "fileName": "banque_postale.png"
+        },
+        {
+            "key": "fd520afc-92d2-420e-97d3-2f140e6644f1",
+            "value": "data",
+            "fileName": "banque_postale.json"
+        },
+        {
+            "key": "e76dbe23-3970-4a2d-825b-5ac2d26dcf99",
+            "value": "styles/banks",
+            "fileName": "banque_postale.css"
+        }
+    ],
+    "textResourceConfiguration": [],
+    "assetResourceConfiguration": [],
+    "colorResourceConfiguration": []
+}
