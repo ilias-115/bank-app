@@ -117,15 +117,15 @@ Les principaux objectifs ont été réalisés. Néamoins, il reste un bug sur la
 - Appuyer sur "Save" puis "Derivate"
 - Le projet dérivée se trouve à "/home/name/mobioos/TEST_VERSION_FINALV6"
 - Copier l'ensemble de se projet dans le dossier bank_app/src.
-- Lancer l'application : "npm start"
 
-
-
-## Back-end
-
+Il faut au préalable avoir lancer la backend depuis Spring.
 - Importer le fichier 'bank_backend'.
 - Clic droit sur 'fr.su.BankBackendApplication.java' -> Run as -> Spring boot app
 - Le serveur devrait se lancer.
+
+- Lancer l'application : "npm start"
+
+
 
 
 
