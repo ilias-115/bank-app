@@ -105,4 +105,27 @@ Pour finir, on peut voir les différents évenements réalisés via les logs (vo
 Les principaux objectifs ont été réalisés. Néamoins, il reste un bug sur la conversion de devise, en effet, la fenêtre de conversion est aléatoirement manquante.
 
 
+# Lignes de produits pour la gestion de la variabilité 
+
+- Lancer Visual Studio Code.
+- Importer l'ensemble du frontend.
+- Selectionner l'onglet Mobioos Forger Explorer.
+- Dérouler l'onglet "Bank".
+- Dérouler l'onglet "Customizations".
+- Séléctionner "Edit the customization" sur le fichier customization "TEST_VERSION_FINAL_V6"
+- Selectionnez l'ensemble des variabilités que l'on souhaite créer
+- Appuyer sur "Save" puis "Derivate"
+- Le projet dérivée se trouve à "/home/name/mobioos/TEST_VERSION_FINALV6"
+- Copier l'ensemble de se projet dans le dossier bank_app/src.
+- Lancer l'application : "npm start"
+
+
+
+## Back-end
+
+- Importer le fichier 'bank_backend'.
+- Clic droit sur 'fr.su.BankBackendApplication.java' -> Run as -> Spring boot app
+- Le serveur devrait se lancer.
+
+
 
