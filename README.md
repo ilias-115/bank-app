@@ -71,8 +71,7 @@ mot de passe : devrepmdp
 
 La page de connexion est la suivante :
 
-
-![image](https://user-images.githubusercontent.com/93160985/145285366-77031df2-6de5-4199-bfc8-d298773de43c.png)
+![Capture d’écran de 2022-01-25 22-41-53](https://user-images.githubusercontent.com/46990905/151056395-2c77a7b9-1cb9-46f4-bce3-0fa8eb3e4dc0.png)
 
 Si on se connecte avec un compte inexistant, un pop-up d'erreur s'affichera.
 On va d'abord se connecter en administrateur.
@@ -92,7 +91,7 @@ Déconnecter le compte administrateur.
 
 Ensuite on va se connecter avec un compte client que l'on a créé précedement.
 
-![image](https://user-images.githubusercontent.com/93160985/145287411-9c6fa5b1-95e2-4975-ba9d-daab62687d2e.png)
+![Capture d’écran de 2022-01-25 22-40-30](https://user-images.githubusercontent.com/46990905/151056491-e9eaa78b-9cf1-4ec4-8d20-6b6f5efc397b.png)
 
 On peut maintenant tester les différentes opérations de retrait ou de dépot en indiquant le montant souhaité.
 
