@@ -112,10 +112,10 @@ Pour finir, on peut voir les différents évenements réalisés via les logs (vo
 - Selectionner l'onglet Mobioos Forger Explorer.
 - Dérouler l'onglet "Bank".
 - Dérouler l'onglet "Customizations".
-- Séléctionner "Edit the customization" sur le fichier customization "TEST_VERSION_FINAL_V6"
+- Séléctionner "Edit the customization" sur le fichier customization "TEST_VERSION_FINAL"
 - Selectionnez l'ensemble des variabilités que l'on souhaite créer
 - Appuyer sur "Save" puis "Derivate"
-- Le projet dérivée se trouve à "/home/name/mobioos/TEST_VERSION_FINALV6"
+- Le projet dérivée se trouve à "/home/name/mobioos/TEST_VERSION_FINAL"
 - Copier l'ensemble de se projet dans le dossier bank_app/src.
 
 Il faut au préalable avoir lancer la backend depuis Spring.
