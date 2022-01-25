@@ -86,13 +86,15 @@ Puis créer deux comptes banquaire avec des adresses gmail avec lesquelles on pe
 
 Tester la suppression d'un compte, si le compte n'existe pas, un pop-up d'erreur s'affichera.
 
+Tester la modification d'un compte, si le compte n'existe pas, un pop-up d'erreur s'affichera.
+
 Déconnecter le compte administrateur.
 
 Ensuite on va se connecter avec un compte client que l'on a créé précedement.
 
 ![image](https://user-images.githubusercontent.com/93160985/145287411-9c6fa5b1-95e2-4975-ba9d-daab62687d2e.png)
 
-On peut maintenant tester les différentes opérations de retrait ou de dépot (par tranche de 100€).
+On peut maintenant tester les différentes opérations de retrait ou de dépot en indiquant le montant souhaité.
 
 Ainsi que l'opération de transfert d'argent, si le numéro de compte n'existe pas, ou si le montant saisi est négatif, ou si le plafond de découvert est atteint, un pop-up d'erreur s'affichera.
 
@@ -100,9 +102,6 @@ On peut aussi se connecter sur l'autre compte pour voir si le transfert d'argent
 
 Pour finir, on peut voir les différents évenements réalisés via les logs (voir la console de Spring Tools).
 
-# Conclusion 
-
-Les principaux objectifs ont été réalisés. Néamoins, il reste un bug sur la conversion de devise, en effet, la fenêtre de conversion est aléatoirement manquante.
 
 
 # Lignes de produits pour la gestion de la variabilité 
@@ -128,6 +127,10 @@ Il faut au préalable avoir lancer la backend depuis Spring.
 
 - Lancer l'application : "npm start"
 
+
+# Conclusion 
+
+Les principaux objectifs ont été réalisés. 
 
 
 
