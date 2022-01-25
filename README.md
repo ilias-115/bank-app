@@ -107,6 +107,8 @@ Les principaux objectifs ont été réalisés. Néamoins, il reste un bug sur la
 
 # Lignes de produits pour la gestion de la variabilité 
 
+![Capture d’écran de 2022-01-25 22-14-15](https://user-images.githubusercontent.com/46990905/151052643-c9d32a15-044a-497b-9bf6-af2dafe4f029.png)
+
 - Lancer Visual Studio Code.
 - Importer l'ensemble du frontend.
 - Selectionner l'onglet Mobioos Forger Explorer.
@@ -122,6 +124,7 @@ Il faut au préalable avoir lancer la backend depuis Spring.
 - Importer le fichier 'bank_backend'.
 - Clic droit sur 'fr.su.BankBackendApplication.java' -> Run as -> Spring boot app
 - Le serveur devrait se lancer.
+
 
 - Lancer l'application : "npm start"
 
